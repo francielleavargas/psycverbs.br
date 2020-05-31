@@ -21,6 +21,7 @@ alterar
 alucinar
 alvoroçar
 amargurar
+amar
 amedrontar
 amofinar
 amolar
@@ -32,6 +33,7 @@ aniquilar
 apalermar
 apavorar
 aperrear
+apreciar
 apoquentar
 aporrinhar
 arrasar
@@ -140,11 +142,13 @@ irar
 irritar
 magoar
 maravilhar
+matar
 melindrar
 nausear
 ofender
 oprimir
 ouriçar
+odiar
 paralisar
 pasmar
 penalizar
@@ -170,4 +174,3 @@ transtornar
 traumatizar
 travar
 vexar
-
